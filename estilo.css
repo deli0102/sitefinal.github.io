@@ -1,0 +1,109 @@
+body,html{
+    margin:0 ;
+    background-color:rgb(240, 239, 193);
+  
+  }
+   #capa{
+       background-image:url("img.jpg");
+  background-repeat:no repeat;
+  background-size:cover;
+  height:98vh;
+   text-align: center ;
+  
+  }
+  #titulo{ 
+      padding-top: 23%;
+  font-size:70px;
+  color:rgb(156, 247, 38);
+  text-shadow: #43f70c;
+  }
+  
+  #parte1{
+      text-align: center;
+      padding: 2%;
+       color:rgb(105, 243, 86);
+  }
+  #parte2{ 
+      text-align: center;
+      padding: 2%;
+      color:rgb(105, 243, 86);
+  }
+  
+  #parte3{ 
+      text-align: center;
+      padding: 2%;
+      clear:both;
+  color:rgb(105, 243, 86);
+  } 
+  
+  
+  
+  .esquerda{
+      float: left;
+  }
+  
+  .direita{
+      float:right;
+  }
+  
+  .coluna2{
+      width: 41%;
+  }
+  
+  
+  .coluna3{
+      width: 30%;
+      float: left;   
+      text-align: center;
+ }
+  
+  .esquerda{
+      float: left;
+  }
+   
+  .coluna4{
+      width: 29%;
+      padding: 2%;
+  color:rgb(4, 48, 245);
+  
+  }
+  
+  
+  h1{
+  color: rgb(240, 3, 228);
+  font-size:5vh;
+  text-align: center ;
+  }
+  
+  p{ padding: 2%;
+      color:rgb(11, 33, 236);
+   font-size:4vh;
+  
+  
+  }
+      
+  .coluna5{
+      width: 29%;
+      padding: 3%;
+  color:rgb(11, 33, 236);
+  }
+  .coluna6{
+      width: 29%;
+      padding: 3%;
+  color:rgb(11, 33, 23)
+  }
+  
+  .direita{
+      float:right;
+   
+  }    
+  
+.coluna7{
+    width: 29%;
+    padding: 3%;
+color:rgb(11, 33, 23)
+}
+.direita{
+        float:right;
+    }
+ 
